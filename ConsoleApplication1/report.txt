@@ -1,0 +1,32 @@
+Store Display Racks
+A101
+1599.99
+12
+Mannequins
+D208
+49.99
+112
+End Cap Displays
+D209
+345.00
+41
+Hangers
+D210
+118.99
+16
+Office Computers
+D211
+1.19
+1200
+Chairs
+E101
+629.99
+11
+Sofas
+F310
+145.00
+32
+Desk
+F311
+829.99
+6
